@@ -1,0 +1,41 @@
+[
+  {
+    "id": "loc1",
+    "name": "Pasar Parahyangan KBP",
+    "tag": "Cabang Utama Kotabaru Parahyangan",
+    "address": "Kota Baru Parahyangan, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",
+    "hours": "Senin - Sabtu: 08.00 - 16.30 WIB (Cut-off Order 15.00 WIB)",
+    "sundayHours": "Minggu & Tanggal Merah: Libur",
+    "grabMartAvailable": true,
+    "grabMartUrl": "https://mart.grab.com/id/id/merchant/toko-sahabat-rempah-pasar-parahyangan-kbp/6-C6MULULARUDFGE",
+    "mapsUrl": "https://maps.google.com/?q=Pasar+Parahyangan+Kota+Baru+Parahyangan",
+    "phone": "+62 813-7878-1327",
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "loc2",
+    "name": "Kebon Jeruk / Dulatip (Kota Bandung)",
+    "tag": "Cabang Pusat Belakang Pasar",
+    "address": "Jl. Belakang Pasar No. 28B, Kebon Jeruk, Kec. Andir (Dekat Jl. Dulatip & Pasar Baru), Kota Bandung, Jawa Barat 40181",
+    "hours": "Senin - Sabtu: 08.00 - 16.30 WIB (Cut-off Order 15.00 WIB)",
+    "sundayHours": "Minggu & Tanggal Merah: Libur",
+    "grabMartAvailable": true,
+    "grabMartUrl": "https://mart.grab.com/id/id/merchant/toko-sahabat-rempah-pasar-parahyangan-kbp/6-C6MULULARUDFGE",
+    "mapsUrl": "https://maps.google.com/?q=Jl.+Belakang+Pasar+No.+28B+Kebon+Jeruk+Andir+Bandung",
+    "phone": "+62 813-7878-1327",
+    "image": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "loc3",
+    "name": "Cabang Sukaraja",
+    "tag": "Cabang Gunung Batu Bandung",
+    "address": "Jl. Gunung Batu No. 123, Sukaraja, Kec. Cicendo, Kota Bandung, Jawa Barat 40175",
+    "hours": "Senin - Sabtu: 08.00 - 16.30 WIB (Cut-off Order 15.00 WIB)",
+    "sundayHours": "Minggu & Tanggal Merah: Libur",
+    "grabMartAvailable": true,
+    "grabMartUrl": "https://mart.grab.com/id/id/merchant/toko-sahabat-rempah-pasar-parahyangan-kbp/6-C6MULULARUDFGE",
+    "mapsUrl": "https://maps.google.com/?q=Jl.+Gunung+Batu+No.+123+Sukaraja+Bandung",
+    "phone": "+62 813-7878-1327",
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=600&q=80"
+  }
+]

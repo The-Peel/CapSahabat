@@ -1,0 +1,114 @@
+[
+  {
+    "id": "r1",
+    "title": "Rendang Daging Sapi Khas Nusantara",
+    "category": "nusantara",
+    "categoryName": "Masakan Nusantara",
+    "prepTime": "120 Menit",
+    "servings": "5 - 6 Porsi",
+    "tagline": "Rasa rempah meresap dalam hingga ke serat daging lembut",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
+    "description": "Hidangan paling dibanggakan Indonesia dengan keharuman cengkeh, kayu manis, kapulaga Jawa, lada putih utuh, & kunyit murni yang dimasak perlahan bersama santan kental.",
+    "spicesUsed": [
+      { "name": "Kapulaga Jawa Utuh", "amount": "4 Butir" },
+      { "name": "Cengkeh Harum", "amount": "3 Biji" },
+      { "name": "Kayu Manis Manado", "amount": "1 Batang (5cm)" },
+      { "name": "Lada Putih Utuh", "amount": "1 sdt" },
+      { "name": "Kunyit Bubuk Murni", "amount": "1.5 sdt" },
+      { "name": "Jintan Wangi", "amount": "0.5 sdt" }
+    ],
+    "tokopediaBundleUrl": "https://www.tokopedia.com/capsahabat",
+    "shopeeBundleUrl": "https://shopee.co.id/capsahabatrempah"
+  },
+  {
+    "id": "r2",
+    "title": "Cajun Grilled Chicken & Potato Wedges",
+    "category": "fusion",
+    "categoryName": "Western / Fusion",
+    "prepTime": "35 Menit",
+    "servings": "3 - 4 Porsi",
+    "tagline": "Pedas gurih aromatik bergaya New Orleans",
+    "image": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&w=800&q=80",
+    "description": "Paha ayam fillet & kentang wedges dipanggang garing dengan lumuran Cajun Seasoning Cap Sahabat, Parsley Garlic Salt, & olive oil. Praktis dan lezat ala resto harum semerbak.",
+    "spicesUsed": [
+      { "name": "Cajun Seasoning Premium", "amount": "2 sdm" },
+      { "name": "Parsley Garlic Salt", "amount": "1 sdt" },
+      { "name": "Lada Hitam Kasar", "amount": "1 sdt" },
+      { "name": "Garlic Powder Murni", "amount": "1 sdt" }
+    ],
+    "tokopediaBundleUrl": "https://www.tokopedia.com/capsahabat",
+    "shopeeBundleUrl": "https://shopee.co.id/capsahabatrempah"
+  },
+  {
+    "id": "r3",
+    "title": "Sop Buntut Sapi Rempah Komplit",
+    "category": "nusantara",
+    "categoryName": "Masakan Nusantara",
+    "prepTime": "90 Menit",
+    "servings": "4 Porsi",
+    "tagline": "Kuah bening hangat dengan kesegaran rempah utuh pilihan",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=800&q=80",
+    "description": "Sop buntut empuk khas restoran bintang lima. Rahasia kelezatan kuahnya terletak pada ekstraksi rempah utuh kapulaga, bunga pekak (pala), cengkeh, & lada putih utuh.",
+    "spicesUsed": [
+      { "name": "Kapulaga Jawa Utuh", "amount": "5 Butir" },
+      { "name": "Cengkeh Harum", "amount": "4 Biji" },
+      { "name": "Pala Utuh / Bubuk", "amount": "0.5 sdt" },
+      { "name": "Lada Putih Utuh", "amount": "1.5 sdt" }
+    ],
+    "tokopediaBundleUrl": "https://www.tokopedia.com/capsahabat",
+    "shopeeBundleUrl": "https://shopee.co.id/capsahabatrempah"
+  },
+  {
+    "id": "r4",
+    "title": "Golden Milk Jahe Kunyit JSR",
+    "category": "herbal",
+    "categoryName": "Minuman & JSR",
+    "prepTime": "10 Menit",
+    "servings": "2 Cangkir",
+    "tagline": "Eliksir hangat menenangkan jiwa & meredakan peradangan",
+    "image": "https://images.unsplash.com/photo-1514733670139-4d87a1941d55?auto=format&fit=crop&w=800&q=80",
+    "description": "Minuman hangat kesehatan JSR campuran susu oat/almond hangat dengan Kunyit Jahe Habbatussauda, Kayu Manis, & sedikit lada hitam untuk penyerapan kurkumin optimal.",
+    "spicesUsed": [
+      { "name": "Kunyit Jahe Habbatussauda", "amount": "1.5 sdm" },
+      { "name": "Kayu Manis Bubuk", "amount": "0.5 sdt" },
+      { "name": "Lada Hitam Kasar", "amount": "1 sejumput" }
+    ],
+    "tokopediaBundleUrl": "https://www.tokopedia.com/capsahabat",
+    "shopeeBundleUrl": "https://shopee.co.id/capsahabatrempah"
+  },
+  {
+    "id": "r5",
+    "title": "Ayam Bumbu Ungkep Kuning Sunda",
+    "category": "nusantara",
+    "categoryName": "Masakan Nusantara",
+    "prepTime": "45 Menit",
+    "servings": "6 Potong",
+    "tagline": "Warna kuning keemasan alami dengan aroma rempah meresap",
+    "image": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80",
+    "description": "Ayam pejantan diungkep halus bersama Kunyit Bubuk Murni, Jintan, Ketumbar, & Sereh kering Cap Sahabat. Siap digoreng atau dibakar kapan saja.",
+    "spicesUsed": [
+      { "name": "Kunyit Bubuk Murni", "amount": "2 sdt" },
+      { "name": "Jintan Wangi", "amount": "1 sdt" },
+      { "name": "Lada Putih Utuh", "amount": "1 sdt" }
+    ],
+    "tokopediaBundleUrl": "https://www.tokopedia.com/capsahabat",
+    "shopeeBundleUrl": "https://shopee.co.id/capsahabatrempah"
+  },
+  {
+    "id": "r6",
+    "title": "Garlic Parsley Butter Steak & Seafood",
+    "category": "fusion",
+    "categoryName": "Western / Fusion",
+    "prepTime": "20 Menit",
+    "servings": "2 Porsi",
+    "tagline": "Keharuman mentega gurih peterseli bawang putih ala Bistro",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
+    "description": "Ribeye steak atau udang galah dibalur minyak zaitun, digoreng pan-seared dengan mentega cair dan taburan Parsley Garlic Salt & Lada Hitam Kasar.",
+    "spicesUsed": [
+      { "name": "Parsley Garlic Salt", "amount": "1.5 sdm" },
+      { "name": "Lada Hitam Kasar", "amount": "1 sdt" }
+    ],
+    "tokopediaBundleUrl": "https://www.tokopedia.com/capsahabat",
+    "shopeeBundleUrl": "https://shopee.co.id/capsahabatrempah"
+  }
+]

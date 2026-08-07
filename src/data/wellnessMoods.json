@@ -1,0 +1,102 @@
+[
+  {
+    "id": "m1",
+    "moodKey": "sleep",
+    "title": "😴 Tidur Nyenyak & Menenangkan Diri",
+    "subtitle": "Sleep, Relaxation & Anti-Stress",
+    "description": "Mengistirahatkan pikiran dari kepenatan aktivitas harian dengan seduhan Bunga Chamomile, Lavender Herbal, dan kesegaran Peach Gum Dessert Set.",
+    "colorBg": "bg-indigo-900/10",
+    "borderAccent": "border-indigo-600/30",
+    "recommendedProducts": [
+      {
+        "name": "Chamomile Flower Tea Premium",
+        "benefits": "Merangsang hormon melatonin alami & meredakan kecemasan sebelum tidur.",
+        "brewingTip": "Seduh 1 sdt bunga chamomile dengan 200ml air panas 90°C selama 5 menit.",
+        "tokopediaUrl": "https://www.tokopedia.com/capsahabat",
+        "shopeeUrl": "https://shopee.co.id/capsahabatrempah"
+      },
+      {
+        "name": "Peach Gum Dessert Set Complete",
+        "benefits": "Kaya kolagen alami, mendinginkan suhu tubuh, & meremajakan sel kulit.",
+        "brewingTip": "Rebus peach gum terendam air bersama angco, lotus seed, & gula batu.",
+        "tokopediaUrl": "https://www.tokopedia.com/capsahabat",
+        "shopeeUrl": "https://shopee.co.id/capsahabatrempah"
+      }
+    ]
+  },
+  {
+    "id": "m2",
+    "moodKey": "immunity",
+    "title": "🛡️ Meningkatkan Imunitas & Stamina",
+    "subtitle": "Immunity Booster & Respiratory Health",
+    "description": "Memperkuat benteng pertahanan imun tubuh secara alami dari serangga penyakit, tenggorokan gatal, & kelelahan fisik.",
+    "colorBg": "bg-emerald-900/10",
+    "borderAccent": "border-emerald-600/30",
+    "recommendedProducts": [
+      {
+        "name": "Qust Al Hindi Grade A",
+        "benefits": "Spesialis kesehatan pernapasan, meredakan batuk radang, & booster sel darah putih.",
+        "brewingTip": "Seduh 0.5 sdt bubuk Qust Al Hindi dalam air hangat, tambahkan madu murni.",
+        "tokopediaUrl": "https://www.tokopedia.com/capsahabat",
+        "shopeeUrl": "https://shopee.co.id/capsahabatrempah"
+      },
+      {
+        "name": "Kunyit Jahe Habbatussauda JSR",
+        "benefits": "Antioxidant super, menjaga vitalitas tubuh, & mempercepat pemulihan.",
+        "brewingTip": "Seduh 1 sdm bubuk JSR dalam 250ml air panas, minum hangat setiap pagi.",
+        "tokopediaUrl": "https://www.tokopedia.com/capsahabat",
+        "shopeeUrl": "https://shopee.co.id/capsahabatrempah"
+      }
+    ]
+  },
+  {
+    "id": "m3",
+    "moodKey": "detox",
+    "title": "🍵 Pelancar Pencernaan & Detox Tubuh",
+    "subtitle": "Digestive Care & Body Cleansing",
+    "description": "Membersihkan usus, menetralkan asam lambung berlebih, serta melancarkan pembuangan racun tubuh.",
+    "colorBg": "bg-amber-900/10",
+    "borderAccent": "border-amber-600/30",
+    "recommendedProducts": [
+      {
+        "name": "Racikan Kunyit Jahe Sereh Lengkuas",
+        "benefits": "Formula populer JSR untuk pembersihan rahim & detox saluran pencernaan.",
+        "brewingTip": "Rebus 1 sdm racikan 4-in-1 dengan 300ml air selama 3-5 menit, saring & beri perasan jeruk nipis.",
+        "tokopediaUrl": "https://www.tokopedia.com/capsahabat",
+        "shopeeUrl": "https://shopee.co.id/capsahabatrempah"
+      },
+      {
+        "name": "Lemongrass Ginger Herbal Tea",
+        "benefits": "Meredakan perut kembung, begah, & menyegarkan nafas secara alami.",
+        "brewingTip": "Seduh kantong serai jahe dengan air mendidih 100°C selama 7 menit.",
+        "tokopediaUrl": "https://www.tokopedia.com/capsahabat",
+        "shopeeUrl": "https://shopee.co.id/capsahabatrempah"
+      }
+    ]
+  },
+  {
+    "id": "m4",
+    "moodKey": "warming",
+    "title": "🔥 Penghangat Badan & Anti-Angin",
+    "subtitle": "Body Warming & Cold Weather Relief",
+    "description": "Menghalau cuaca dingin Bandung, meredakan masuk angin, pegal-pegal, & meningkatkan sirkulasi darah.",
+    "colorBg": "bg-orange-900/10",
+    "borderAccent": "border-orange-600/30",
+    "recommendedProducts": [
+      {
+        "name": "Jahe Merah Gula Aren Murni JSR",
+        "benefits": "Rasa pedas hangat spontan melegakan dada & mengusir rasa pegal linu.",
+        "brewingTip": "Seduh 2 sdm dalam cangkir air panas. Nikmati saat cuaca dingin / hujan.",
+        "tokopediaUrl": "https://www.tokopedia.com/capsahabat",
+        "shopeeUrl": "https://shopee.co.id/capsahabatrempah"
+      },
+      {
+        "name": "Bandrek Sunda Tradisional Murni",
+        "benefits": "Racikan warisan Priangan jahe tua & rempah komplit pelancar sirkulasi darah.",
+        "brewingTip": "Campur dengan 200ml air panas, opsional tambah kelapa muda / susu kental manis.",
+        "tokopediaUrl": "https://www.tokopedia.com/capsahabat",
+        "shopeeUrl": "https://shopee.co.id/capsahabatrempah"
+      }
+    ]
+  }
+]
