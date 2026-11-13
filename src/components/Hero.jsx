@@ -4,7 +4,7 @@ import Logo from './Logo';
 
 export default function Hero() {
   return (
-    <section id="hero" className="relative pt-28 pb-20 md:pt-36 md:pb-28 bg-gradient-to-b from-cinnamon via-cinnamon-dark to-[#2E1A0F] text-linen overflow-hidden">
+    <section id="hero" className="relative pt-28 pb-20 md:pt-36 md:pb-28 bg-gradient-to-b from-cinnamon via-cinnamon-dark to-[#14261B] text-linen overflow-hidden">
       
       {/* Background Decorative Pattern & Glow */}
       <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#D49A37_1px,transparent_1px)] [background-size:24px_24px] pointer-events-none"></div>

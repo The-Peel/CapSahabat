@@ -4,8 +4,8 @@
 
 @layer base {
   body {
-    background-color: #FAF6F0;
-    color: #221C16;
+    background-color: #FAF7F2;
+    color: #1A241E;
     overflow-x: hidden;
   }
 
@@ -19,25 +19,25 @@
   width: 10px;
 }
 ::-webkit-scrollbar-track {
-  background: #FAF6F0;
+  background: #FAF7F2;
 }
 ::-webkit-scrollbar-thumb {
-  background: #D49A37;
+  background: #1E3F2D;
   border-radius: 5px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #4A2E1B;
+  background: #142A1E;
 }
 
 /* Glassmorphism Navigation */
 .glass-nav {
-  background: rgba(74, 46, 27, 0.94);
+  background: rgba(20, 42, 30, 0.96) !important;
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
 }
 
 .glass-card {
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(255, 255, 255, 0.88);
   backdrop-filter: blur(8px);
   border: 1px solid rgba(212, 154, 55, 0.2);
 }

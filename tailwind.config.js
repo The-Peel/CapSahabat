@@ -7,11 +7,25 @@ export default {
   theme: {
     extend: {
       colors: {
+        // WARNA UTAMA: Hijau Rempah Herbal (Deep Organic Herb Green - tidak terlalu terang)
         cinnamon: {
-          DEFAULT: '#4A2E1B',
-          dark: '#362113',
-          light: '#623D24',
-          subtle: '#F4ECE6',
+          DEFAULT: '#1E3F2D', // Hijau Rempah Utama
+          dark: '#142A1E',    // Hijau Rempah Tua (Hutan & Daun Kering)
+          light: '#2E5B42',   // Hijau Daun Rempah Segar
+          subtle: '#E8F2EC',  // Latar Halus Herbal
+        },
+        rempah: {
+          DEFAULT: '#1E3F2D', // Hijau Rempah Utama
+          dark: '#142A1E',    // Hijau Rempah Tua
+          light: '#2E5B42',   // Hijau Daun Rempah
+          subtle: '#E8F2EC',
+        },
+        // WARNA SEKUNDER: Coklat Rempah / Kayu Manis (Warm Cinnamon Bark)
+        brown: {
+          DEFAULT: '#684126', // Coklat Kayu Manis Hangat
+          dark: '#482B16',    // Coklat Sangrai Tua
+          light: '#885834',   // Coklat Rempah Hangat
+          subtle: '#F6EFEB',  // Krem Coklat Lembut
         },
         turmeric: {
           DEFAULT: '#D49A37',
@@ -20,22 +34,22 @@ export default {
           gold: '#E5A93C',
         },
         sage: {
-          DEFAULT: '#4A6B53',
-          dark: '#354E3C',
-          light: '#E9F0EA',
+          DEFAULT: '#2E5B42',
+          dark: '#142A1E',
+          light: '#E6EFE9',
         },
         linen: {
-          DEFAULT: '#FAF6F0',
-          dark: '#F2EAE0',
+          DEFAULT: '#FAF7F2',
+          dark: '#F0ECE4',
         },
         ivory: {
-          DEFAULT: '#F4EFE6',
+          DEFAULT: '#F5F1E8',
           pure: '#FFFFFF',
         },
         roast: {
-          DEFAULT: '#221C16',
-          muted: '#5A4F44',
-          light: '#8C7E70',
+          DEFAULT: '#1A241E',
+          muted: '#4A584E',
+          light: '#7A8C80',
         }
       },
       fontFamily: {
@@ -43,9 +57,9 @@ export default {
         sans: ['"Plus Jakarta Sans"', 'system-ui', 'sans-serif'],
       },
       boxShadow: {
-        'warm-sm': '0 2px 8px rgba(74, 46, 27, 0.06)',
-        'warm-md': '0 4px 20px rgba(74, 46, 27, 0.08)',
-        'warm-lg': '0 12px 32px rgba(74, 46, 27, 0.12)',
+        'warm-sm': '0 2px 8px rgba(20, 42, 30, 0.08)',
+        'warm-md': '0 4px 20px rgba(20, 42, 30, 0.12)',
+        'warm-lg': '0 12px 32px rgba(20, 42, 30, 0.18)',
         'glow-gold': '0 0 20px rgba(212, 154, 55, 0.35)',
       }
     },
